@@ -21,4 +21,4 @@ Este es un proyecto básico de un contador creado con HTML, CSS y JavaScript. Pe
 
 ## Autor
 
-Isaacpsy
+MatiasFrutos
