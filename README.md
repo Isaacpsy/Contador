@@ -19,12 +19,6 @@ Este es un proyecto básico de un contador creado con HTML, CSS y JavaScript. Pe
 * CSS
 * JavaScript
 
-## Posibles Mejoras Futuras
-
-* Limitar los valores máximo y mínimo del contador.
-* Permitir al usuario ingresar un valor para incrementar o decrementar.
-* Agregar estilos más avanzados.
-
 ## Autor
 
 Isaacpsy
